@@ -1,0 +1,43 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+.cards-section{
+    padding: 60px;
+    background-color: rgb(14, 98, 158);
+    background-repeat: no-repeat;
+    text-align: center;
+}
+h3{
+    font-size: 45px;
+    color: rgb(11, 43, 86);
+    margin-bottom: 30px;
+}
+.contain{
+    display: flex;
+    justify-content: center;
+    gap: 40px;
+    flex-wrap: wrap;
+}
+
+.card{
+    background-color: white;
+    border-radius: 10px;
+    width: 230px;
+    padding: 10px;
+}
+
+img{
+    border-radius: 10px;
+}
+h4{
+    color: rgb(7, 55, 132);
+    font-size: 20px;
+}
+p{
+    font-size: 15px;
+    color: rgb(26, 87, 186);
+    line-height: 1,5;
+}
+
